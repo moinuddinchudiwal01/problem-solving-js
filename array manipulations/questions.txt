@@ -1,0 +1,97 @@
+#Beginner Array Manipulation Questions (25 Questions)
+
+Find the sum of all elements in an array.
+Input: [1, 2, 3, 4], Output: 10.
+Find the largest number in an array.
+Input: [1, 2, 3, 4], Output: 4.
+Find the smallest number in an array.
+Reverse an array.
+Input: [1, 2, 3, 4], Output: [4, 3, 2, 1].
+Check if an array is sorted in ascending order.
+Remove duplicate elements from an array.
+Input: [1, 2, 2, 3], Output: [1, 2, 3].
+Count the frequency of each element in an array.
+Find the index of a given element in an array.
+Insert an element at a specific position in an array.
+Input: [1, 2, 3], Insert 4 at index 2, Output: [1, 2, 4, 3].
+Delete an element from a specific position in an array.
+Merge two arrays into one.
+Split an array into two halves.
+Find the maximum and minimum elements in an array.
+Rotate an array to the left by one position.
+Input: [1, 2, 3, 4], Output: [2, 3, 4, 1].
+Rotate an array to the right by one position.
+Find all the even numbers in an array.
+Find all the odd numbers in an array.
+Check if a given element exists in an array.
+Find the sum of all even numbers in an array.
+Find the sum of all odd numbers in an array.
+Create a new array by multiplying each element by 2.
+Find the second largest number in an array.
+Find the second smallest number in an array.
+Concatenate two arrays.
+Filter out negative numbers from an array.
+
+#Intermediate Array Manipulation Questions (25 Questions)
+
+Sort an array in ascending order.
+Sort an array in descending order.
+Find the intersection of two arrays.
+Input: [1, 2, 3] and [2, 3, 4], Output: [2, 3].
+Find the union of two arrays.
+Find the difference between two arrays (elements in one array but not the other).
+Find all pairs of numbers in an array that sum to a given value.
+Input: [1, 2, 3, 4], Target: 5, Output: [[1, 4], [2, 3]].
+Find the longest increasing subsequence in an array.
+Check if an array is a subset of another array.
+Find the product of all elements in an array.
+Remove all zeros from an array.
+Find all unique triplets in an array that sum to zero.
+Group elements of an array based on a condition (e.g., odd/even).
+Find the missing number in an array of 1 to n.
+Input: [1, 2, 4, 5], Output: 3.
+Rearrange an array such that all negative numbers appear before positive numbers.
+Find the duplicate elements in an array.
+Find the k largest elements in an array.
+Find the k smallest elements in an array.
+Check if two arrays are equal.
+Flatten a multidimensional array.
+Input: [[1, 2], [3, 4]], Output: [1, 2, 3, 4].
+Split an array into chunks of size k.
+Input: [1, 2, 3, 4, 5], Chunk Size: 2, Output: [[1, 2], [3, 4], [5]].
+Find the median of an array.
+Find the mode of an array.
+Move all zeros to the end of an array.
+Input: [1, 0, 2, 0, 3], Output: [1, 2, 3, 0, 0].
+Find the kth largest element in an array.
+Find the kth smallest element in an array.
+
+#Advanced Array Manipulation Questions (25 Questions)
+
+Find the maximum sum subarray using Kadane's Algorithm.
+Find the maximum product subarray.
+Generate all permutations of an array.
+Find all subsets of an array (power set).
+Find the number of inversions in an array.
+Find the first missing positive integer in an array.
+Input: [3, 4, -1, 1], Output: 2.
+Implement a binary search on a sorted array.
+Find the majority element in an array (element appearing more than n/2 times).
+Implement a quick sort algorithm.
+Implement a merge sort algorithm.
+Find the maximum difference between two elements such that the larger element appears after the smaller one.
+Input: [2, 3, 10, 6, 4, 8, 1], Output: 8.
+Find the minimum number of swaps required to sort an array.
+Find the longest contiguous subarray with a given sum.
+Rearrange an array in alternating positive and negative items.
+Rearrange an array in wave form (e.g., [1, 2, 3, 4] → [2, 1, 4, 3]).
+Find the smallest subarray with a sum greater than a given value.
+Implement a sliding window algorithm to find the maximum sum of k consecutive elements.
+Find the largest rectangular area in a histogram.
+Find the number of pairs in an array with a given difference.
+Implement a heap sort algorithm.
+Find the maximum element in a sliding window of size k.
+Find the longest consecutive sequence in an array.
+Implement an algorithm to merge overlapping intervals in an array.
+Rotate an array by k positions using reversal algorithm.
+Implement a priority queue using an array.

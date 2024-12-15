@@ -1,0 +1,153 @@
+#Beginner Star Pattern Questions (25 Questions)
+
+Print a square of *.
+****
+****
+****
+Print a right-angled triangle of *.
+*
+**
+***
+****
+Print an inverted right-angled triangle.
+****
+***
+**
+*
+Print a left-aligned triangle of *.
+   *
+  **
+ ***
+****
+Print a right-aligned triangle of *.
+****
+ ***
+  **
+   *
+Print a rectangle of * with a specified width and height.
+Print a hollow square of *.
+****
+*  *
+*  *
+****
+Print a hollow rectangle of *.
+Print a vertical line of *.
+*
+*
+*
+*
+Print a horizontal line of *.
+Print a checkerboard pattern using *.
+Print a triangle of numb
+1
+22
+333
+4444
+Print a triangle of alpha
+A
+BB
+CCC
+DDDD
+Print an inverted triangle of numbers.
+Print an inverted triangle of alphabets.
+Print a pyramid of *.
+   *
+  ***
+ *****
+*******
+Print an inverted pyramid of *.
+Print Floyd’s triangle using *.
+Print a mirrored right-angled triangle.
+   *
+  **
+ ***
+****
+Print a right-angled triangle with increasing numbers.
+Print a right-angled triangle with alternating * and spaces.
+Print a right-angled triangle with row numbers.
+Print a right-angled triangle with column numbers.
+Print a hollow triangle of *.
+Print a left-aligned inverted triangle of *.
+
+#Intermediate Star Pattern Questions (25 Questions)
+
+Print a diamond pattern with *.
+   *
+  ***
+ *****
+*******
+ *****
+  ***
+   *
+Print a hollow diamond pattern.
+Print a triangle using only odd numbers.
+Print a pyramid of increasing numbers.
+Print a mirrored diamond pattern of *.
+Print a butterfly pattern of *.
+*        *
+**      **
+***    ***
+****  ****
+**********
+****  ****
+***    ***
+**      **
+*        *
+Print a sandglass pattern of *.
+Print a heart shape using *.
+Print an X shape using *.
+Print a cross pattern with *.
+Print a hollow pyramid of *.
+Print Pascal’s triangle.
+Print a staircase pattern with *.
+*
+**
+***
+****
+Print an inverted staircase pattern.
+Print a zig-zag pattern using *.
+Print a pyramid with user-defined height.
+Print a rectangle with alternating rows of * and spaces.
+Print a rectangle with a border of *.
+Print a triangle with alternating rows of numbers and *.
+Print a triangle with increasing even numbers.
+Print a hollow diamond with *.
+Print a hollow rectangle with *.
+Print a square with diagonals using *.
+Print a square with alternating rows of * and numbers.
+Print a hollow right-angled triangle.
+
+#Advanced Star Pattern Questions (25 Questions)
+
+Print a circular pattern of *.
+Print a spiral pattern inside a matrix.
+Print a square with concentric rectangles of *.
+*******
+*     *
+* *** *
+* * * *
+* *** *
+*     *
+*******
+Print a diamond with numbers increasing and decreasing.
+Print an hourglass pattern of *.
+Print a square with a diagonal cross of *.
+Print a triangular pattern using Fibonacci numbers.
+Print a hollow spiral pattern of *.
+Print a hexagonal pattern with *.
+Print a hollow hexagonal pattern.
+Print a star-shaped pattern of *.
+Print a kite shape with *.
+Print a triangular zig-zag pattern.
+Print a checkerboard with a hollow center.
+Print an octagonal pattern with *.
+Print a rectangle of * with rounded edges.
+Print a symmetrical tree pattern with *.
+Print a mountain-like pattern using *.
+Print a wave pattern with *.
+Print a grid of stars with spaces between them.
+Print Pascal’s triangle with alternating rows of * and numbers.
+Print a hollow diamond with a star border.
+Print an overlapping pyramid of *.
+Print a square with diagonals filled alternately with * and spaces.
+Print a custom-shaped pattern (user-defined).

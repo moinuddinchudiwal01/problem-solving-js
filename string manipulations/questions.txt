@@ -1,0 +1,114 @@
+#Beginner String Manipulation Questions (25 Questions)
+
+Reverse a string.
+Input: "hello", Output: "olleh".
+Check if a string is a palindrome.
+Input: "madam", Output: true.
+Count vowels in a string.
+Input: "education", Output: 5.
+Convert a string to uppercase and lowercase.
+Find the frequency of each character in a string.
+Replace all spaces in a string with underscores.
+Input: "hello world", Output: "hello_world".
+Check if two strings are anagrams.
+Input: "listen", "silent", Output: true.
+Extract all numbers from a string.
+Input: "abc123xyz", Output: 123.
+Remove all numbers from a string.
+Input: "abc123xyz", Output: "abcxyz".
+Find the first non-repeating character in a string.
+Input: "swiss", Output: "w".
+Remove all vowels from a string.
+Check if a string contains only digits.
+Input: "12345", Output: true.
+Remove duplicate characters from a string.
+Input: "hello", Output: "helo".
+Find the length of a string without using the .length property.
+Split a string into words.
+Input: "I love JavaScript", Output: ["I", "love", "JavaScript"].
+Find the position of the first occurrence of a substring.
+Count the number of spaces in a string.
+Convert the first character of each word to uppercase.
+Input: "hello world", Output: "Hello World".
+Remove leading and trailing spaces from a string.
+Repeat a string n times.
+Input: "abc", 3, Output: "abcabcabc".
+Check if a string ends with a specific substring.
+Check if a string starts with a specific substring.
+Reverse the order of words in a string.
+Input: "I love coding", Output: "coding love I".
+Replace all occurrences of a substring with another substring.
+Input: "banana", "a", "o", Output: "bonono".
+Extract the domain name from an email address.
+Input: "user@example.com", Output: "example.com".
+
+#Intermediate String Manipulation Questions (25 Questions)
+
+Find the longest word in a sentence.
+Input: "The quick brown fox", Output: "quick".
+Find the shortest word in a sentence.
+Count the number of words in a string.
+Implement a function to check if a string is a valid email address.
+Reverse the vowels in a string.
+Input: "hello", Output: "holle".
+Sort the characters of a string alphabetically.
+Input: "javascript", Output: "aacijprstv".
+Check if a string is a valid IPv4 address.
+Extract the username from an email address.
+Input: "user@example.com", Output: "user".
+Capitalize the first and last letters of each word.
+Remove all special characters from a string.
+Input: "hello@world!", Output: "helloworld".
+Find all substrings of a string.
+Find all permutations of a string.
+Check if a string contains only unique characters.
+Find the most frequent character in a string.
+Check if two strings are rotations of each other.
+Input: "abcde", "deabc", Output: true.
+Find the lexicographically smallest and largest substrings.
+Remove a specific character from a string.
+Insert a character at a specific position in a string.
+Check if a string can be rearranged to form a palindrome.
+Find the longest palindromic substring.
+Group words in a sentence by their lengths.
+Check if a string is a subsequence of another string.
+Input: "abc", "aebdc", Output: true.
+Implement basic string compression.
+Input: "aaabbc", Output: "a3b2c1".
+Find all anagrams of a string within another string.
+Remove all adjacent duplicates in a string.
+Input: "abbaca", Output: "ca".
+
+#Advanced String Manipulation Questions (25 Questions)
+
+Implement a custom split function without using the built-in method.
+Implement a custom trim function.
+Find the longest common prefix among an array of strings.
+Input: ["flower", "flow", "flight"], Output: "fl".
+Find the longest common subsequence between two strings.
+Implement a function to check if a string is a valid JSON.
+Implement a basic text editor with undo/redo operations.
+Evaluate a mathematical expression given as a string.
+Input: "2+3*5", Output: 17.
+Find all possible palindromic substrings in a string.
+Implement a function to convert a string into a ZigZag pattern.
+Input: "PAYPALISHIRING", 3, Output: "PAHNAPLSIIGYIR".
+Implement a function to compare two version numbers.
+Input: "1.01", "1.001", Output: true.
+Convert a string representation of a number into an integer without using parseInt.
+Implement a function to encode a string using Run Length Encoding (RLE).
+Input: "aaabbc", Output: "3a2b1c".
+Find the edit distance between two strings (Levenshtein distance).
+Implement a wildcard pattern matcher.
+Convert a Roman numeral string to an integer.
+Input: "IX", Output: 9.
+Convert an integer to a Roman numeral string.
+Find the longest repeating substring in a string.
+Find the smallest window in a string that contains all characters of another string.
+Find the kth distinct substring of a string.
+Generate all possible sentences from a string with spaces.
+Implement a string tokenization algorithm.
+Convert a snake_case string to camelCase.
+Convert a camelCase string to snake_case.
+Rearrange characters in a string such that no two adjacent characters are the same.
+Implement the KMP (Knuth-Morris-Pratt) pattern matching algorithm.

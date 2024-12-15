@@ -1,0 +1,97 @@
+#Beginner Object Manipulation Questions (25 Questions)
+
+Create an object to store information about a person (name, age, city).
+Access properties of an object using dot and bracket notation.
+Input: { name: "John", age: 25 }, Access: name, Output: "John".
+Add a new property to an object.
+Delete a property from an object.
+Check if a property exists in an object.
+Iterate over all properties of an object using for...in.
+Get all keys of an object using Object.keys().
+Get all values of an object using Object.values().
+Get all entries (key-value pairs) of an object using Object.entries().
+Merge two objects into one.
+Input: {a: 1} and {b: 2}, Output: {a: 1, b: 2}.
+Check if two objects are equal (shallow equality).
+Find the length of an object (number of properties).
+Convert an object into a string (JSON).
+Input: { name: "John" }, Output: '{"name":"John"}'.
+Convert a JSON string back into an object.
+Create a copy of an object using spread operator.
+Find a specific key in a nested object.
+Create an array of objects with a specific structure.
+Check if all values in an object are truthy.
+Convert an object with numeric values to an array of values.
+Add a method to an object and call it.
+Access nested object properties safely.
+Sort an array of objects by a specific key.
+Input: [{name: "John", age: 25}, {name: "Alice", age: 22}], Sort by age.
+Combine properties of two objects into a single object.
+Remove all properties with undefined values from an object.
+Find all properties of an object that start with a specific letter.
+
+#Intermediate Object Manipulation Questions (25 Questions)
+
+Deep clone an object (avoid shallow copy pitfalls).
+Compare two objects for deep equality.
+Find keys with a specific value in an object.
+Input: {a: 1, b: 2, c: 1}, Value: 1, Output: ["a", "c"].
+Convert an array of objects into a single object (using a specific property as the key).
+Input: [{id: 1, name: "John"}, {id: 2, name: "Alice"}], Output: {1: "John", 2: "Alice"}.
+Transform object keys into uppercase/lowercase.
+Filter an object based on a condition.
+Input: {a: 1, b: 2, c: 3}, Condition: value > 1, Output: {b: 2, c: 3}.
+Group an array of objects by a specific key.
+Input: [{category: "A"}, {category: "B"}, {category: "A"}], Group by category.
+Count occurrences of values in an array of objects.
+Flatten a deeply nested object into a single-level object.
+Unflatten an object (recreate nested structure from keys).
+Find and replace values in an object.
+Convert an object into a query string.
+Input: {name: "John", age: 25}, Output: "name=John&age=25".
+Convert a query string back into an object.
+Input: "name=John&age=25", Output: {name: "John", age: 25}.
+Sort object keys alphabetically.
+Sort object values in descending order.
+Find the maximum value in an object.
+Find the minimum value in an object.
+Combine two objects and resolve key conflicts using a custom rule.
+Find the difference between two objects (keys/values that are not the same).
+Map over an object’s values.
+Input: {a: 1, b: 2}, Output (multiply values by 2): {a: 2, b: 4}.
+Create a nested object structure dynamically.
+Input: ["user", "profile", "name"], Value: "John", Output: {user: {profile: {name: "John"}}}.
+Filter an array of objects based on multiple conditions.
+Remove duplicate objects from an array of objects (based on a specific property).
+Find the most frequently occurring value in an object.
+Convert an array of objects into a single-level object (flattening).
+
+#Advanced Object Manipulation Questions (25 Questions)
+
+Write a custom deep merge function for two objects.
+Find all paths in a nested object (return all keys as paths).
+Input: {a: {b: {c: 1}}}, Output: ["a.b.c"].
+Create a function to freeze an object recursively.
+Implement a custom bind function on an object method.
+Implement a custom call function on an object method.
+Implement a custom apply function on an object method.
+Memoize an expensive function using an object as a cache.
+Create a proxy to log all interactions with an object.
+Use Object.defineProperty to create read-only properties.
+Implement a pub-sub pattern using objects.
+Design an object that acts as a singleton.
+Create a dynamically updating object using getters and setters.
+Find circular references in an object.
+Convert an object into an array of key-value pair objects.
+Input: {a: 1, b: 2}, Output: [{key: "a", value: 1}, {key: "b", value: 2}].
+Implement a schema validation function for objects.
+Throttle access to object properties using a custom function.
+Build an object pool (reuse existing objects).
+Monitor changes to an object using Proxy.
+Create a lazy-loading object structure.
+Convert a deeply nested object into a Map.
+Encrypt and decrypt values within an object.
+Implement a deep comparison function for two objects.
+Count the depth of a nested object.
+Create a custom iterable object.
+Implement a caching layer using an object to optimize expensive operations.
