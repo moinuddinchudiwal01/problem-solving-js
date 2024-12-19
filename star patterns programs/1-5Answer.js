@@ -4,9 +4,9 @@
 // ****
 // Answer:
 // let ans = "";
-// for(let i = 0;i<3;i++){
-//     for(let j = 0;j<4;j++){
-//         ans += "*";
+// for(let i =1;i<5;i++){
+//     for(let j=1;j<5;j++){
+//         ans +="*";
 //     }
 //     ans += "\n";
 // }
@@ -19,9 +19,9 @@
 // ****
 // Answer:
 // let ans = "";
-// for(let i = 0;i<5;i++){
-//     for(let j = 0;j<i;j++){
-//         ans += "*";
+// for(let i =1;i<=5;i++){
+//     for(let j=1;j<=i;j++){
+//         ans +="*";
 //     }
 //     ans += "\n";
 // }
@@ -32,11 +32,10 @@
 // ***
 // **
 // *
-// Answer:
 // let ans = "";
-// for(let i = 0;i<4;i++){
-//     for(let j = 4;j>i;j--){
-//         ans += "*";
+// for(let i =1;i<=5;i++){
+//     for(let j=5;j>=i;j--){
+//         ans +="*";
 //     }
 //     ans += "\n";
 // }
@@ -49,21 +48,17 @@
 // ****
 // Answer:
 // let ans = "";
-// for (let i = 0; i < 5; i++) {
-//     // Spaces loop
-//     for (let j = i; j <= 5 - 1; j++) {
-//         ans += " ";
+// for(let i =1;i<=5;i++){
+//     for(let j=5;j>i;j--){
+//         ans +=" ";
 //     }
 
-//     // Stars loop
-//     for (let k = 1; k <= i + 1; k++) {
-//         ans += "*";
+//     for(let k=1;k<=i;k++){
+//         ans +="*";
 //     }
 
-//     // Add a newline at the end of each row
 //     ans += "\n";
 // }
-
 // console.log(ans);
 
 // 5.Print a right-aligned triangle of *.
@@ -72,3 +67,15 @@
 //   **
 //    *
 // Answer:
+// let ans = "";
+// for(let i =1;i<=5;i++){
+//    for(let j=i;j<=5;j++){
+//        ans +="*";
+//    }
+//   ans +="\n";
+//    for(let k=1;k<=i;k++){
+//        ans += " "
+//    }
+
+// }
+// console.log(ans);
