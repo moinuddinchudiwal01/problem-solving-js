@@ -24,7 +24,7 @@ Print a right-aligned triangle of *.
  ***
   **
    *
-#start from here
+
 Print a rectangle of * with a specified width and height.
 Print a hollow square of *.
 ****
