@@ -1,5 +1,0 @@
-1: Hoisting in JS 
-2: Global execution context (Memory allocation and Code Exicution)
-3: Temporal DeadZone
-4: What is IIFE (Immediate Invoke Function Expression)
-5: Functions make their own execution context?
